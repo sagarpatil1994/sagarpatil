@@ -1,0 +1,5 @@
+package com.niit.chatappbackend.config;
+
+public class ApplicationContextConfig {
+
+}

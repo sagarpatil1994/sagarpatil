@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="com.niit.chatappbackend.model.Blog"/>
+<fullyQualifiedTypeName name="com.niit.chatappbackend.model.Chat"/>
+<fullyQualifiedTypeName name="com.niit.chatappbackend.model.Event"/>
+<fullyQualifiedTypeName name="com.niit.chatappbackend.model.Forum"/>
+<fullyQualifiedTypeName name="com.niit.chatappbackend.model.Job"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.niit.chatappbackend.model.User"/>
+</qualifiedTypeNameHistroy>

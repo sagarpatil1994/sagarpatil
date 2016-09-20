@@ -1,0 +1,15 @@
+package com.niit.chatappbackend.test;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.niit.chatappbackend.dao.UserDAO;
+import com.niit.chatappbackend.model.User;
+
+public class UserTest {
+	
+	public static void main(String[] args) {
+		
+		
+	System.out.println("Record Inserted Successfully");
+		
+	}
+}
